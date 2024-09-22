@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zrpvqg.github.io/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/app/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/assets/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/css/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/data/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/includes/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/item/sitemap.html.gz
+Sitemap: https://zrpvqg.github.io/src/sitemap.html.gz
